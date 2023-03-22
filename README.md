@@ -11,6 +11,5 @@
 <h1>課程筆記區</h1>
 
 <h2>作業連結區</h2>
-作業一: [prefix sum](https://youtu.be/h2iPx3AEadE) 
-[string](https://youtu.be/3y93_89BKFYs)
+[作業一] (https://github.com/vanessaaugust/111-2-Programming-Language/blob/main/ophw1.ipynb)
 <h3>專題連結區</h3>
