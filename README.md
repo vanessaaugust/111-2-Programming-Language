@@ -11,5 +11,6 @@
 <h1>課程筆記區</h1>
 
 <h2>作業連結區</h2>
-[作業一] (https://github.com/vanessaaugust/111-2-Programming-Language/blob/main/ophw1.ipynb)
+
+[作業一](https://github.com/vanessaaugust/111-2-Programming-Language/blob/main/ophw1.ipynb)
 <h3>專題連結區</h3>
