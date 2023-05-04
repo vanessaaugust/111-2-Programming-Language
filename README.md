@@ -16,4 +16,7 @@
 
 [作業二](https://github.com/vanessaaugust/111-2-Programming-Language/blob/c2403bf800d1dbd9a52c1be61a154c844a4158ca/ophw2.ipynb)
 
+[作業三]
+
+[作業四](https://github.com/vanessaaugust/111-2-Programming-Language/blob/7fac8f2395cee7d81b79706f1a368ea5b5dc0665/PL%20HW%204%20music%20genre.ipynb)
 <h3>專題連結區</h3>
