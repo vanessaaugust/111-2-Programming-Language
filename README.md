@@ -18,5 +18,5 @@
 
 作業三
 
-[作業四](https://github.com/vanessaaugust/111-2-Programming-Language/blob/7fac8f2395cee7d81b79706f1a368ea5b5dc0665/PL%20HW%204%20music%20genre.ipynb) & {MEDIUM}(https://medium.com/@41071226h/popular-music-genre-b3e2228e7b2) 
+[作業四](https://github.com/vanessaaugust/111-2-Programming-Language/blob/7fac8f2395cee7d81b79706f1a368ea5b5dc0665/PL%20HW%204%20music%20genre.ipynb) & [MEDIUM](https://medium.com/@41071226h/popular-music-genre-b3e2228e7b2) 
 <h3>專題連結區</h3>
