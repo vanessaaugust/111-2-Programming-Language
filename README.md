@@ -22,3 +22,4 @@
 
 [作業五](https://github.com/vanessaaugust/111-2-Programming-Language/blob/f8d9724d77d000f7372c5b97db2dc14c1094b472/hw5.ipynb) & [MEDIUM](https://medium.com/@41071226h/singapore-hotel-location-research-27a6aab2faa3)
 <h3>專題連結區</h3>
+［期末報告］（https://youtu.be/x6-rpfhikXM）
